@@ -1,6 +1,27 @@
+# Data handling
 pandas
 numpy
+
+# Data visualization
 matplotlib
 seaborn
+plotly
+
+# Machine Learning
 scikit-learn
+xgboost
+lightgbm
+
+# Jupyter notebooks
 jupyter
+notebook
+
+# Feature engineering / preprocessing
+category_encoders
+
+# Statistical analysis
+scipy
+statsmodels
+
+# Others
+joblib
