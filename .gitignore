@@ -1,9 +1,43 @@
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
 
-# Notebooks checkpoints
+# Jupyter Notebook
 .ipynb_checkpoints/
 
 # Data files
 data/processed/*
+marketing data/*
+
+# Images (optional, if you want to track them, remove this)
+images/*
+
+# Reports (optional)
+reports/*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Python egg / distribution
+*.egg-info/
+dist/
+build/
+
+# Ignore secrets / config files
+*.env
+config.yaml
