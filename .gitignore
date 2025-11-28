@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/processed/*
