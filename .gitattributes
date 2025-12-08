@@ -1,0 +1,10 @@
+* text=auto
+
+# Treat notebooks as binary to avoid messy diffs
+*.ipynb binary
+
+# Treat images as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary

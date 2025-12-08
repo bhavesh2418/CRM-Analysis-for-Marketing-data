@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data folders (kept empty with .gitkeep)
+data/raw/*
+data/processed/*
+
+# Reports and images
+*.png
+*.jpg
+*.jpeg
+
+# System files
+.DS_Store
+
+# Large files
+*.csv
+*.xlsx
